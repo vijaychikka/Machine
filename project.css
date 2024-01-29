@@ -1,0 +1,126 @@
+
+.logo{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(22, 60, 60);
+    width: 1200px;
+    color: white;
+}
+
+.spa{
+    margin-left: 770px;
+}
+
+.card{
+    display: flex;
+    flex-direction: row;
+    padding: 15px;
+}
+
+.hom{
+    margin-left: 405px;
+}
+
+.ser{
+    margin-left: 20px;
+}
+
+.abu{
+    margin-left: 30px;
+}
+
+.ord{
+    margin-left: 40px;
+}
+
+.app{
+    margin-left: 50px;
+}
+
+.blo{
+    margin-left: 60px;
+}
+
+.con{
+    margin-left: 70px;
+}
+
+.office{
+    background-image: url('/offc.jpg');
+    background-size: cover;
+    width: 1200px;
+    height: 1200px;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.card1{
+    margin-top: 300px;
+    margin-left: 40px;
+}
+
+.button{
+    background-color: aquamarine;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+
+.card2{
+    margin-top: 300px;
+    margin-left: 350px;
+    background-color: white;
+    width: 300px;
+    height: 350px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.button1{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+}
+
+.container1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+    background-color: rgb(149, 247, 215);
+    width: 1200px;
+}
+
+.card3{
+    margin-left: 10px;
+    
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.card4{
+    margin-left: 70px;
+    
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.card5{
+    margin-left: 90px;
+   
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+
+
